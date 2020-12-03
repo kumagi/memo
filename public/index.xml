@@ -1,33 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kumagiのメモ</title>
+    <title>kumagoya.info on Kumagiのメモ</title>
     <link>https://kumagoya.info/</link>
-    <description>Recent content on Kumagiのメモ</description>
+    <description>Recent content in kumagoya.info on Kumagiのメモ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 02 Dec 2020 20:14:34 +0900</lastBuildDate>
     
 	<atom:link href="https://kumagoya.info/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>ここについて</title>
-      <link>https://kumagoya.info/top/</link>
-      <pubDate>Wed, 02 Dec 2020 20:14:34 +0900</pubDate>
-      
-      <guid>https://kumagoya.info/top/</guid>
-      <description>知見や偏見や意見を詰め込んだページにしていく予定。 内容の正しさは保証されないし僕の所属する組織とは何の関係も無ければ僕以外の誰の意見も代表しません。</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://kumagoya.info/hello/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kumagoya.info/hello/</guid>
-      <description>hello</description>
-    </item>
     
   </channel>
 </rss>
